@@ -1,0 +1,1000 @@
+  255  ls
+  256  mkdir data
+  257  ls
+  258  cd meta
+  259  madir meta/
+  260  mkdir meta/
+  261  ls
+  262  touch meta.js
+  263  ls
+  264  cd..
+  265  cd -
+  266  cd ..
+  267  ccd /
+  268  cd -
+  269  cd
+  270  pwd
+  271  cd /
+  272  pwd
+  273  cd fullstack
+  274  cd home
+  275  cd fullstack
+  276  cd ubuntu
+  277  cd fullstack
+  278  tree
+  279  pwd
+  280  cd
+  281  cd /
+  282  pwd
+  283  ng new myapp
+  284  exit
+  285  ng g c navigation
+  286  ng g c not-found
+  287  ng g m app-routing --flat --module=app
+  288  ng g c header
+  289  ls
+  290  cd myapp
+  291  ng g c header
+  292  ng g c footer
+  293  ng g c login
+  294  ng g c register
+  295  ng g c home
+  296  ng serve --port 3030
+  297  exit
+  298  power off
+  299  powerd off
+  300  power of
+  301  clear
+  302  git pull
+  303  clear
+  304  .git pull
+  305  clear
+  306  cd fullstack
+  307  tree
+  308  cp /home/ubuntu/fullstack/uidevelopment/token.js meanstack/express/
+  309  ls
+  310  tree
+  311  vi sample.txt
+  312  npm body install --save
+  313  npm install body-parser --save
+  314  sudo npm install -g nodemon
+  315  nodemon
+  316  ng serve 
+  317  mongodb
+  318  sudo apt install mongodb
+  319  npm i mongodb
+  320  .exit
+  321  exit
+  322  ng serve 
+  323  ng new sunrise-hotel-frontend --routing
+  324  cd
+  325  clear
+  326  cd sunrise-hotel-frontend
+  327  ng g c notfound
+  328  ng serve --port 5050
+  329  ng g c home/navbar
+  330  ng serve 
+  331  ng serve --port 5050
+  332  ng g s services/hotels
+  333  ng serve --port 5050
+  334  ng serve 
+  335  cd sunrise-frontend
+  336  cd sunrise-hotel-frontend
+  337  ng g c header
+  338  ng g c footer
+  339  ng g c home
+  340  ng g c carousel
+  341  ng g c home/top-rated-hotels
+  342  ng g c home/hotel-events
+  343  ng g c auth/login
+  344  ng g c auth/registration
+  345  ng g c hotels/hotels
+  346  ng g c hotels/hotels-details
+  347  cd fs-9am
+  348  cd tradewin-restserver-waheed
+  349  ng g c home/top-rated-hotels
+  350  clear
+  351  ps
+  352  sudo adduser ram
+  353  su -ram
+  354  sudo su - ram
+  355  ls -la
+  356  sudo cp -r fullstack /home/ram
+  357  su - ram
+  358  cd fs-9am
+  359  code
+  360  xdg-open http://www.git-scm.com
+  361  git --version
+  362  git config
+  363  clear
+  364  git config user.name ubuntu
+  365  git config --system user.name ubuntu
+  366  cd ram
+  367  su -s ram
+  368  clear
+  369  sudo git config --system user.name"ubuntu"
+  370  su -s ram
+  371  exit
+  372  xdg-open http://www.gitscm.com
+  373  xdg-open http://www.github.com
+  374  cd harish
+  375  cd ram
+  376  ls
+  377  mkdir ram/ git-workspace
+  378  cd git-workspace
+  379  ls
+  380  cd first-git
+  381  ls
+  382  git commit -m
+  383  git status
+  384  git commit -m
+  385  git log --oneline
+  386  xdg-open http://github.com
+  387  git remote add origin https://github.com/harish928/first-git.git
+  388  gir remote
+  389  git remote
+  390  git remote -v
+  391  git push -u orgin master
+  392  git push -u origin master
+  393  git push -uorigin master
+  394  git log --oneline
+  395  git push -uorgin master
+  396  git push -uorigin master
+  397  git add sample.txt
+  398  commit -m "first commit"
+  399  reset
+  400  git init
+  401  ls
+  402  git log
+  403  cat sample1.txt
+  404  vi sample1.txt
+  405  cat sample1.txt
+  406  add commit sample1.txt
+  407  git add commit -m sample1.txt
+  408  cd harish
+  409  ls
+  410  cd ram
+  411  ls
+  412  mkdir git-workspace
+  413  cd git-workspace
+  414  touch text{1..5}.txt
+  415  ls
+  416  git status
+  417  git init
+  418  git status
+  419  git clean -n
+  420  git status
+  421  git clean -f
+  422  ls
+  423  git status
+  424  touch text{1..5}.txt
+  425  git status
+  426  git add text1.txt text2.txt text3.txt
+  427  git status
+  428  git clean -n
+  429  git reset head
+  430  git reset HEAD
+  431  git status
+  432  git rm text3.txt
+  433  git rm --cached text3.txt
+  434  git status
+  435  git rm -cached text1.txt
+  436  git status
+  437  git add .
+  438  git status
+  439  git commit -m "adding 5 text files"
+  440  git log --oneline
+  441  git reflog
+  442  git log --oneline
+  443  git commit -m "adding 5 files"
+  444  git log --oneline
+  445  git reset --hard 3ce5498
+  446  git status
+  447  git add .
+  448  git commit "adding changes"
+  449  git log --oneline
+  450  git revert 3ce5498
+  451  git log --oneline
+  452  ls -la
+  453  ls
+  454  ng g directive input-formator
+  455  ng serve
+  456  cd ram
+  457  cd git-workspace
+  458  ls
+  459  git clone git@github.com:harish928/first-project.git
+  460  ls
+  461  cd first-project
+  462  ls
+  463  cd ..
+  464  git pull git@github.com:harish928/first-project.git
+  465  cd
+  466  mkdir .ssh
+  467  cd .ssh
+  468  ssh-keygen
+  469  ls
+  470  cat id_rsa.pub
+  471  cd
+  472  cd harish/git-workspace
+  473  cd harish/git-workspace/
+  474  cd ram/git-workspace
+  475  git pull git@github.com:harish928/first-project.git
+  476  ls
+  477  cd first-project
+  478  ls
+  479  cd ..
+  480  ls
+  481  cd first-project
+  482  ls
+  483  cd version1.txt
+  484  cat version.txt
+  485  catversion1.txt
+  486  cd 
+  487  cd ram/git-workspace/first-project
+  488  cd ..
+  489  git clone git@github.com:harish928/first-project.git
+  490  git clone git@github.com:harish928/first-project.git newone
+  491  ls
+  492  cd newone
+  493  ls
+  494  edit sam.txt
+  495  git add sam.txt
+  496  git commit-m "some content is added"
+  497  git commit -m "changes made in sam"
+  498  git pull git@github.com:harish928/first-project.git
+  499  git branch
+  500  cd ..
+  501  git branch
+  502  ls
+  503  cd second-repository
+  504  git branch
+  505  git branch -d feature-C
+  506  git branch -D feature-C
+  507  git branch
+  508  git branch feature-C
+  509  git branch 
+  510  git checkout development
+  511  git branch
+  512  git log --onelin
+  513  git log --oneline
+  514  git checkout master
+  515  reset
+  516  git status
+  517  git log --oneline
+  518  git branch -a
+  519  git branch -D checkout
+  520  git branch
+  521  git checkout development
+  522  git log --oneline
+  523  git branch -a
+  524  git checkout master
+  525  git branch
+  526  git checkout -b QA
+  527  git checkout -b prod
+  528  git branch
+  529  git log --online
+  530  git checkout QA
+  531  git log --oneline
+  532  git log --onelien
+  533  git branch
+  534  ls
+  535  touch data.txt
+  536  git add .
+  537  git commit -m "adding data.txt in qa"
+  538  git branch
+  539  git checkout prod
+  540  git log  --oneline
+  541  git merge QA
+  542  git log --oneline
+  543  git branch
+  544  git log --oneline
+  545  vi data.txt
+  546  cat data.txt
+  547  git add .
+  548  git commit -m "modifying data.txt"
+  549  git log --oneline
+  550  git commit -amend
+  551  git commit --amend
+  552  sudo git install vim
+  553  git checkout QA
+  554  vi file1.txt
+  555  git log --oneline
+  556  git merge prod
+  557  git branch
+  558  git log --oneline
+  559  git branch
+  560  git log --oneline
+  561  git checkout prod
+  562  git log --oneline
+  563  git branch -a
+  564  git checkout -b prod-b
+  565  git branch
+  566  git log --oneline
+  567  vi sample data.txt
+  568  git add .
+  569  git commit -m "changes speels in file"
+  570  git log --oneline
+  571  git checkout proud
+  572  git checkout prod
+  573  git log --oneline
+  574  git branch
+  575  v data.txt
+  576  vi data.txt
+  577  cat data.txt
+  578  git add .
+  579  git commit -m "changes in data.txt via prod"
+  580  git log --oneline
+  581  git merge prod-b
+  582  git merge prod -b
+  583  git merge prod-b
+  584  git branch
+  585  git status
+  586  git branch
+  587  vi sample.txt
+  588  git add.
+  589  git add .
+  590  git commit -m "new file sample.txt"
+  591  git log --oneline
+  592  git checkout prod-b
+  593  git branch
+  594  git log --oneline
+  595  touch d2.txt
+  596  git add .
+  597  git commit -m "d2.txt to prod-b"
+  598  git log --oneline
+  599  git checkout prod
+  600  git log --oneline
+  601  git rebase prod-b
+  602  git add .
+  603  git rebase --continue
+  604  git status
+  605  git log --oneline
+  606  git checkout -b prod-c
+  607  vi data.txt
+  608  git log --oneline
+  609  git checkout prod
+  610  git log --oneline
+  611  touch new{1..5}.txt
+  612  git status
+  613  git merge prod-c
+  614  git branch
+  615  git status
+  616  git log --oneline
+  617  git add .
+  618  git status
+  619  git checkout prod-c
+  620  git branch
+  621  touch samole80
+  622  git add .
+  623  git commit -m "added sample 80"
+  624  git log --oneline
+  625  git merge prod-c
+  626  git status
+  627  touch samp{1..5}.txt
+  628  git add .
+  629  git stash save "temorary changes for samo 1 to5 files"
+  630  git stash list
+  631  git stash apply stash@{0}
+  632  git stash list
+  633  git stash pop
+  634  git stash list
+  635  cd ram
+  636  cd git-workspace
+  637  ls
+  638  cd secon-repository
+  639  cd second-repository
+  640  ls
+  641  git 
+  642  xdg-open http://www.github.com
+  643  ls
+  644  git push -u origin master
+  645  cd
+  646  .ssh
+  647  cd .ssh
+  648  ls
+  649  cat id_rsa.pub
+  650  cd
+  651  cd ram/git-workspace/second-repository
+  652  ls
+  653  git push -u origin master
+  654  ls -la
+  655  git status 
+  656  git add .
+  657  git commit -m "this is files push"
+  658  git push origin master
+  659  git remote add origin git@github.com:harish928/secondrepo.git
+  660  git push origin master
+  661  git pull git@github.com:harish928/secondrepo.git
+  662  git push -u origin master
+  663  git remote add origin git@github.com:harish928/secondrepo.git
+  664  git push -u origin master
+  665  reset
+  666  ls
+  667  git status
+  668  git branch
+  669  git log --oneline
+  670  git rebase -i
+  671  git rebase -i HEAD~4
+  672  sudo apt install vim
+  673  git rebase -i HEAD-4
+  674  git log --oneline
+  675  git push -u origin master 
+  676  git push -u origin master -f
+  677  git remote -v
+  678  cd harish
+  679  cd ram/git-workspace
+  680  ls
+  681  cd second-repository
+  682  git remote remove
+  683  git remote
+  684  ls
+  685  cd softwares
+  686  mkdir softwares
+  687  cd softwares
+  688  sudo dpkg -i atom-amd64.deb
+  689  xdg-open atom
+  690  atom
+  691  wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg
+  692  sudo wget wget -qO - https://download.sublimetext.com/
+  693  sudo wget wget -qO - https://download.sublimetext.com
+  694  sudo apt install sublime
+  695  sudo apt-get install sublime-text
+  696  wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg
+  697  sudo dpkg -i code_1.29.1-1542309157_amd64.deb
+  698  cd
+  699  cd harish
+  700  cd ram
+  701  mkdir fs11am
+  702  ls
+  703  cd fs11am
+  704  .init
+  705  git init
+  706  rmdir fs11am
+  707  rm -rd fs11am
+  708  cd ..
+  709  rmdir fs11am
+  710  rm -rd fs11am
+  711  ls
+  712  clear
+  713  mkdir fs11am
+  714  ls
+  715  cd fs11am
+  716  mkdir html-workspace
+  717  ls 
+  718  c html-workspace
+  719  cd html-workspace
+  720  git status
+  721  git init
+  722  ls
+  723  xdg-open http://index.html
+  724  cd fs-9am
+  725  ls
+  726  cd ram
+  727  ls
+  728  cd fs11am
+  729  ls
+  730  cd ram
+  731  ls
+  732  cd fs11am
+  733  ls
+  734  lsb_release -a
+  735  monogo
+  736  mongo --version
+  737  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 9DA31620334BD75D9DCB49F368818C72E52529D4
+  738  sudo apt-get update
+  739  sudo apt-get install -y mongodb-org
+  740  mongo --version
+  741  mongos
+  742  echo "mongodb-org hold" | sudo dpkg --set-selections
+  743  echo "mongodb-org-server hold" | sudo dpkg --set-selections
+  744  echo "mongodb-org-shell hold" | sudo dpkg --set-selections
+  745  echo "mongodb-org-mongos hold" | sudo dpkg --set-selections
+  746  echo "mongodb-org-tools hold" | sudo dpkg --set-selections
+  747  mongos
+  748  sudo service mongod start
+  749  sudo apt-get install -y mongodb-org
+  750  lsb_release -a
+  751  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 9DA31620334BD75D9DCB49F368818C72E52529D4
+  752  monogos
+  753  sudo apt install mongos
+  754  clear
+  755  sudo apt-get update
+  756  sudo apt-get install -y mongodb-org
+  757  mongo --version
+  758  mongos
+  759  mongod
+  760  echo "mongodb-org hold" | sudo dpkg --set-selections
+  761  echo "mongodb-org-server hold" | sudo dpkg --set-selections
+  762  echo "mongodb-org-shell hold" | sudo dpkg --set-selections
+  763  echo "mongodb-org-mongos hold" | sudo dpkg --set-selections
+  764  echo "mongodb-org-tools hold" | sudo dpkg --set-selections
+  765  ls 
+  766  mkdir fs-7am
+  767  cd fs-
+  768  cd fs-7am/
+  769  git clone https://WahidKhan74@bitbucket.org/WahidKhan74/html-css-workspace.git
+  770  ls
+  771  git --version
+  772  git config --system user.name "Waheed Khan"
+  773  sudo git config --system user.name "Waheed Khan"
+  774  sudo git config --system user.email "Waheed Khan"
+  775  git config --list 
+  776  git config --system --list 
+  777  sudo git config --system user.email "wahid@gmail.com"
+  778  git config --system --list 
+  779  cat /etc/gitconfig 
+  780  sudo git config --system user.email "waheed@gmail.com"
+  781  cat /etc/gitconfig 
+  782  vi /etc/gitconfig 
+  783  sudo vi /etc/gitconfig 
+  784  git log --system --list
+  785  git config --system --list
+  786  cat /etc/gitconfig 
+  787  git config --system --edit
+  788  sudo git config --system --edit
+  789  git config --global user.name "WK"
+  790  git config --global user.email "wk@gmail.com"
+  791  git config --global --list
+  792  git config --system --list
+  793  cat /etc/gitconfig 
+  794  cat /home/ubuntu/.gitconfig 
+  795  git config --global --edit
+  796  cat /home/ubuntu/.gitconfig 
+  797  git config --global --list
+  798  ls
+  799  mkdir fs-8am
+  800  cd fs-8am/
+  801  pwd
+  802  mkdir linux
+  803  ls
+  804  mkdir git-workspsce
+  805  ls
+  806  cd git-workspsce/
+  807  pwd
+  808  git config --global --list
+  809  git config --system --list
+  810  mkdir first-git
+  811  cd first-git/
+  812  pwd
+  813  git init 
+  814  ls
+  815  ls -la
+  816  git config --local user.name "WaheedK"
+  817  git config --local user.email "wahidkhan74@gmail.com"
+  818  git config --local --list
+  819  git config  --list
+  820  ls -la
+  821  cat .git/config 
+  822  ls 
+  823  la -la
+  824  touch index.js
+  825  ls
+  826  ls -la
+  827  git status
+  828  vi index.html
+  829  ls
+  830  git status
+  831  touch f1.txt
+  832  git status
+  833  git add f1.txt 
+  834  git status
+  835  git add index.js index.html 
+  836  git status
+  837  ls 
+  838  ls -la
+  839  git status
+  840  git commit -m "initial commit with index.js f1.txt and index.html"
+  841  git status
+  842  git log 
+  843  git config --list 
+  844  ls
+  845  vi index.js 
+  846  cat index.js 
+  847  git status
+  848  touch f2.txt 
+  849  git status
+  850  ls
+  851  vi README.md 
+  852  git status
+  853  git add --all
+  854  git status
+  855  git commit -m "adding README file for project description with f2 and index"
+  856  git status
+  857  git log 
+  858  ls
+  859  git log 
+  860  vi index.js ]
+  861  git status
+  862  git add .
+  863  git status
+  864  git commit -m "modification in index.js"
+  865  git status
+  866  git log 
+  867  git diff df3f4bf..e5d0e9a
+  868  git diff e5d0e9a..df3f4bf
+  869  cat index.js 
+  870  git diff e5d0e9a..df3f4bf
+  871  sudo apt purge mongo*
+  872  sudo apt purge mongodb
+  873  apt install --fix-broken
+  874  sudo apt install --fix-broken
+  875  sudo apt purge mongo*
+  876  mongo --version
+  877  mongo --version
+  878  mongo 
+  879  sudo service mongod status
+  880  sudo systemctl status mongod
+  881  sudo systemctl status mongo
+  882  sudo systemctl status mongodb
+  883  sudo systemctl start mongodb
+  884  sudo systemctl status mongodb
+  885  sudo apt purge mongo*
+  886  sudo apt purge mongodb*
+  887  sudo apt purge mongo*
+  888  sudo apt purge mongodb*
+  889  mongo --version
+  890  sudo apt purge mongo-shell
+  891  sudo apt-get purge mongo*
+  892  sudo apt install --broken-fix
+  893  sudo apt install -broken-fix
+  894  sudo apt install --broken-fix
+  895  apt --help
+  896  sudo apt update
+  897  apt list --upgradable
+  898  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 9DA31620334BD75D9DCB49F368818C72E52529D4
+  899  echo "deb [ arch=amd64 ] https://repo.mongodb.org/apt/ubuntu bionic/mongodb-org/4.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-4.0.list
+  900  sudo apt-get update
+  901  mongo --version
+  902  sudo apt purge mongodb-org*
+  903  sudo rm -rf /var/log/mongodb/
+  904  mongo --version
+  905  sudo apt purge mongodb-org*
+  906  sudo apt purge mongodb-org-shell
+  907  mongo --version
+  908  sudo apt-get install -y mongodb-org
+  909  mongo --version
+  910  sudo service mongod status
+  911  sudo systemctl status mongodb
+  912  sudo systemctl start mongodb
+  913  sudo systemctl restart mongodb
+  914  mongo --version
+  915  sudo systemctl unmask mongodb
+  916  mongo --version
+  917  sudo systemctl start mongodb
+  918  sudo systemctl status mongodb
+  919  cd fs-8am/
+  920  ls
+  921  cd cd git-workspsce/
+  922  cd git-workspsce/
+  923  pwd
+  924  ls
+  925  cd first-git/
+  926  ls -la
+  927  cd ..
+  928  ls 
+  929  ls -la
+  930  cd first-git/
+  931  ls -la
+  932  git status
+  933  cd ..
+  934  ls -la
+  935  git status
+  936  ls
+  937  mkdir second-git
+  938  ls
+  939  cd second-git/
+  940  LS -LA
+  941  ls -la
+  942  git init 
+  943  ls -la
+  944  cd ..
+  945  ls -la
+  946  ls -la first-git/
+  947  ls -la second-git/
+  948  cvd
+  949  cd 
+  950  pwd
+  951  git status
+  952  cd fs-8am/git-workspsce/first-git/
+  953  git status
+  954  cd ..
+  955  cd second-git/
+  956  ls -la
+  957  ls
+  958  echo "Hello Git Version Control System"
+  959  echo "Hello Git Version Control System" > README.md
+  960  ls
+  961  touch index.js
+  962  ls
+  963  git status
+  964  git add README.md 
+  965  git status
+  966  git add index.js
+  967  git status
+  968  git commit
+  969  git status
+  970  git log 
+  971  clear
+  972  ls
+  973  vim index.js
+  974  touch file.txt
+  975  git status
+  976  git add --all
+  977  git status
+  978  git commit -m "adding file.txt index.js"
+  979  git status
+  980  git log
+  981  git show e750749
+  982  git log
+  983  git show 1ac5aff
+  984  ls
+  985  git status
+  986  vi index.js 
+  987  git status
+  988  ls
+  989  git add .
+  990  git status
+  991  touch new.txt
+  992  git status
+  993  git commit -m "modifying index.js"
+  994  git log 
+  995  git status
+  996  git log 
+  997  git show cafa46d
+  998  vi index.js 
+  999  git add .
+ 1000  git status
+ 1001  git commit -m "modifying index.js and adding new "
+ 1002  git log 
+ 1003  git show 4d73bec
+ 1004  git log --oneline 
+ 1005  git log --oneline | wc -l
+ 1006  git shortlog 
+ 1007  git reflog
+ 1008  git log --oneline
+ 1009  git show 4d73bec
+ 1010  git show HEAD@{0}
+ 1011  git show HEAD
+ 1012  git log --oneline
+ 1013  git show e750749
+ 1014  git show HEAD@{2}
+ 1015  git show HEAD~2
+ 1016  cd fs-8am/
+ 1017  cd git-workspsce/
+ 1018  ls
+ 1019  cd first-git/
+ 1020  git log --oneline
+ 1021  ls
+ 1022  git remote add origin git@github.com:wkhanvisualpathit/first-git-rep.git
+ 1023  git remote 
+ 1024  git remote -v 
+ 1025  git push -u origin master
+ 1026  git remote remove origin 
+ 1027  git remote
+ 1028  git remote add origin https://github.com/wkhanvisualpathit/first-git-rep.git
+ 1029  git remote
+ 1030  git remote -v
+ 1031  git push -u origin master
+ 1032  ls
+ 1033  cat README.md 
+ 1034  cat f1.txt 
+ 1035  git log --oneline
+ 1036  ls
+ 1037  vi f1.txt 
+ 1038  git status
+ 1039  git add .
+ 1040  git status
+ 1041  git commit -m "modifying f1.txt"
+ 1042  git log --oneline
+ 1043  ls
+ 1044  vi f2.txt 
+ 1045  git add .
+ 1046  git status
+ 1047  git commit -m "modifying f2.txt"
+ 1048  git log --oneline
+ 1049  git pull origin master 
+ 1050  git push -u origin master 
+ 1051  ls
+ 1052  ls -la
+ 1053  cd ..
+ 1054  ls -la
+ 1055  git clone https://github.com/wkhanvisualpathit/first-git-rep.git
+ 1056  ls
+ 1057  cd first-git-rep/
+ 1058  git log --oneline
+ 1059  ls
+ 1060  cd ..
+ 1061  cd first-git
+ 1062  ls
+ 1063  git log --oneline
+ 1064  cd ..
+ 1065  cd first-git-rep/
+ 1066  git log --oneline
+ 1067  vi f2.txt 
+ 1068  git status
+ 1069  git add .
+ 1070  git commit -m "adding changes to f2.txt"
+ 1071  git status
+ 1072  git log --oneline
+ 1073  cd ..
+ 1074  cd first-git
+ 1075  git log --oneline
+ 1076  cd ../first-git-rep/
+ 1077  pwd
+ 1078  git log --oneline
+ 1079  git push -u origin master 
+ 1080  cd ..
+ 1081  cd first-git
+ 1082  git log --oneline } wc -l
+ 1083  git log --oneline | wc -l
+ 1084  git pull origin master 
+ 1085  git log --oneline
+ 1086  git log --oneline |wc -l
+ 1087  ls
+ 1088  cat f2.txt 
+ 1089  cd ..
+ 1090  ls -la
+ 1091  git clone https://github.com/wkhanvisualpathit/vp-bankers.git
+ 1092  ls
+ 1093  cd vp-bankers/
+ 1094  ls
+ 1095  ls -la
+ 1096  git config --local --list
+ 1097  git config user.name "wahidkhan"
+ 1098  git config user.email "wahidkhan@gmail.com"
+ 1099  git config --local --list
+ 1100  git log
+ 1101  vi README.md
+ 1102  cat README.md 
+ 1103  git status
+ 1104  git add .
+ 1105  git commit -m "initial commit with README"
+ 1106  git log 
+ 1107  git remote 
+ 1108  git remote -v
+ 1109  git push -u origin master 
+ 1110  cd fs-8am/
+ 1111  cd git-workspsce/
+ 1112  ls
+ 1113  cd vp-bankers/
+ 1114  ls -la
+ 1115  git log
+ 1116  git remote -v
+ 1117  cd ..
+ 1118  git clone git@github.com:wkhanvisualpathit/vp-bankers.git 
+ 1119  ls
+ 1120  git clone git@github.com:wkhanvisualpathit/vp-bankers.git vp-bankers2
+ 1121  ls
+ 1122  cd 
+ 1123  pwd
+ 1124  cd .ssh/
+ 1125  pwd
+ 1126  ls
+ 1127  rm -rf sample*
+ 1128  LS
+ 1129  ls
+ 1130  ls -la
+ 1131  rm -rf .git/
+ 1132  rm -rf README.md 
+ 1133  ls
+ 1134  rm -rf first-sample-git/
+ 1135  ls
+ 1136  ls -la
+ 1137  ls
+ 1138  rm -rf fs*
+ 1139  lsd
+ 1140  ls
+ 1141  ssh-keygen
+ 1142  ls
+ 1143  cat fs8am
+ 1144  cat fs8am.pub 
+ 1145  cd
+ 1146  cd fs-8am/git-workspsce/
+ 1147  git clone git@github.com:wkhanvisualpathit/vp-bankers.git vp-bankers2
+ 1148  ls
+ 1149  cd vp-bankers2
+ 1150  ls
+ 1151  git log
+ 1152  git remote -v
+ 1153  ls
+ 1154  vi README.md 
+ 1155  vi index.js
+ 1156  git status
+ 1157  git add .
+ 1158  git status
+ 1159  git commit -m "modifying readme and creating index.js file"
+ 1160  git log --oneline
+ 1161  git push -u origin master 
+ 1162  git log --oneline
+ 1163  git log --oneline | wc -l
+ 1164  cd ..
+ 1165  ls
+ 1166  cd vp-bankers
+ 1167  git log --oneline
+ 1168  git fetch origin master
+ 1169  git log --oneline
+ 1170  git merge origin/master 
+ 1171  git log --oneline
+ 1172  git log --oneline | wc -l
+ 1173  touch sample.js
+ 1174  git add .
+ 1175  git commit -m "adding sample file"
+ 1176  git status
+ 1177  git log --oneline
+ 1178  ls
+ 1179  git push origin master 
+ 1180  touch sample{1..5}.txt
+ 1181  git status
+ 1182  git clean -n 
+ 1183  git status
+ 1184  git clean -n 
+ 1185  git clean -f sample3.txt 
+ 1186  git clean -n 
+ 1187  git status
+ 1188  ls
+ 1189  git clean -n 
+ 1190  git clean -f sample2.txt sample4.txt 
+ 1191  ls
+ 1192  git clean -f 
+ 1193  git status
+ 1194  touch sample{1..5}.txt
+ 1195  ls
+ 1196  git status
+ 1197  vi README.md 
+ 1198  git status
+ 1199  git ckean -n 
+ 1200  git clean -n 
+ 1201  git staus
+ 1202  git status
+ 1203  git clean -n 
+ 1204  cat README.md 
+ 1205  git checkout README.md
+ 1206  git status
+ 1207  cat README.md 
+ 1208  git status
+ 1209  git add .
+ 1210  git status
+ 1211  git reset HEAD 
+ 1212  git status
+ 1213  git add .
+ 1214  git status
+ 1215  git reset HEAD sample1.txt sample2.txt
+ 1216  git status
+ 1217  git rm --cached sample1.txt 
+ 1218  git status
+ 1219  git rm --cached sample3.txt 
+ 1220  git status
+ 1221  git clean -n 
+ 1222  git clean -f sample2.txt 
+ 1223  git status
+ 1224  git commit -m "adding sample files 4-5"
+ 1225  git status
+ 1226  git log -oneline
+ 1227  git log --oneline
+ 1228  ls
+ 1229  git clean -f
+ 1230  git status
+ 1231  ls
+ 1232  git log --oneline
+ 1233  git revert 3b3728a
+ 1234  ls
+ 1235  git status
+ 1236  git log --oneline
+ 1237  ls
+ 1238  sgit show 3b3728a
+ 1239  git log --oneline
+ 1240  git show 3b3728a
+ 1241  ls
+ 1242  git show HEAD
+ 1243  git log --oneline
+ 1244  git reset --hard 8fb7ba8
+ 1245  git log --oneline
+ 1246  ls
+ 1247  git status
+ 1248  gitlog --oneline
+ 1249  git log --oneline
+ 1250  git reset --soft 3b3728a
+ 1251  ls
+ 1252  git log --oneline
+ 1253  git status
+ 1254  history > todaystopics.txt
